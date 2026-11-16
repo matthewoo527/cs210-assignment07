@@ -210,11 +210,18 @@ int main() {
     return 0;
 }
 ```
-
-
-
 ## Output
-
-
+```
+Inorder: 10 20 30 40 50 60 70 80 90 98 100 102 
+Preorder: 70 40 20 10 30 50 60 98 80 90 100 102 
+Postorder: 10 30 20 60 50 40 90 80 102 100 98 70 
+Height: 4
+Search 60: Found
+Search 99: Not found
+After removing 10: 20 30 40 50 60 70 80 90 98 100 102 
+After removing 50: 20 30 40 60 70 80 90 98 100 102 
+After removing 40: 20 30 60 70 80 90 98 100 102
+```
+<img width="398" height="131" alt="Screenshot 2026-11-15 at 18 18 19" src="https://github.com/user-attachments/assets/883fe39b-cf38-4242-9351-32bd4b3837d4" />
 
 ## Complexity
