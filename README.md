@@ -248,3 +248,8 @@ The worst case complexity is O(n), because it might need to go to every node to 
 The average case complexity for remove is O(log n) because when it find the node it just remove it or replace with another node if needed.
 
 The worst case complexity for remove is O(n) because it might need to search through the whole tree to remove a node.
+
+## Code Explantation
+This program implements a Binary Search Tree using recursion to insert, search, remove, and traverse nodes, as well as calculate the tree's height. 
+
+It also tests three removal cases and uses in-order traversal to verify that the values remain sorted after each removal. 
