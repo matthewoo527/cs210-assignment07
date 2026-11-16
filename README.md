@@ -223,17 +223,21 @@ After removing 50: 20 30 40 60 70 80 90 98 100 102
 After removing 40: 20 30 60 70 80 90 98 100 102
 ```
 Output Screenshot:
+
 <img width="398" height="131" alt="Screenshot 2026-11-15 at 18 18 19" src="https://github.com/user-attachments/assets/883fe39b-cf38-4242-9351-32bd4b3837d4" />
 
 ## Complexity
 ### Search
+The average case complexity for search is O(log n), because it searches the left or the right subtree until the number is found.
 
-
-
+The worst case complexity for search is O(n), because it might need to search every node to find a number.
 
 ### insert
+The average case complexity for insert is O(log n), because it needs to find an empty position by following the left or right subtree, then insert the node.
 
-
-
+The worst case complexity is O(n), because it might need to go to every node to find an empty position.
 
 ### remove
+The average case complexity for remove is O(log n) because when it find the node it just remove it or replace with another node if needed.
+
+The worst case complexity for remove is O(n) because it might need to search through the whole tree to remove a node.
