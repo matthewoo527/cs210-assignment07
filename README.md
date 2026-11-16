@@ -1,10 +1,17 @@
 # CS210 Assignment 7
 
+Author: Matthew Woo
+
+Date: Nov 15, 2026
+
+AI Disclosure: I used ChatGPT to help me build the BinarySearchTree class, and I went through the code to understand it.
+I also added comments to explain the code and how it works.
+
 ## Code
 ```cpp
 /**
  * AI Disclosure:
- * I used ChatGPT to help me build the BinarySearchTree class, and I go through the code to understand it.
+ * I used ChatGPT to help me build the BinarySearchTree class, and I went through the code to understand it.
  * I also added comments to explain the code and how it works.
  */
 
