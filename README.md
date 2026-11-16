@@ -222,6 +222,18 @@ After removing 10: 20 30 40 50 60 70 80 90 98 100 102
 After removing 50: 20 30 40 60 70 80 90 98 100 102 
 After removing 40: 20 30 60 70 80 90 98 100 102
 ```
+Output Screenshot:
 <img width="398" height="131" alt="Screenshot 2026-11-15 at 18 18 19" src="https://github.com/user-attachments/assets/883fe39b-cf38-4242-9351-32bd4b3837d4" />
 
 ## Complexity
+### Search
+
+
+
+
+### insert
+
+
+
+
+### remove
